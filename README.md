@@ -194,7 +194,7 @@ This approach prevents tight coupling and encourages clean system growth.
 ## 11. Author
 - **Author : Enes ÜNLÜ:**  
 - **Contact: enesunlu40@outlook.com.tr**
-  
+  (Feel free to ask question or to talk for improvements by my e-mail address)
 ---
 
 ## 12. License
