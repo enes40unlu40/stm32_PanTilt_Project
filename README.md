@@ -198,6 +198,6 @@ This approach prevents tight coupling and encourages clean system growth.
 ---
 
 ## 12. License
-This project is released under the no license so anybody can use, copy this project.
+This project is released under the unlicense so anybody can use, copy this project.
 
 
